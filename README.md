@@ -1,2 +1,2 @@
 # sample-book-api
-Tech writing exercise for skyflow
+Sample API docs for a **Book API**. 
